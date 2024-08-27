@@ -2,10 +2,10 @@
 body {
     max-width: 720px;
     margin: auto;
-}
-
-header, footer {
     text-align: center;
-    padding: 24px 0px;
+    padding: 24px;
 }
 
+img {
+    max-width: 100%;
+}
